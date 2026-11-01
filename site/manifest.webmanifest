@@ -1,0 +1,3 @@
+{ "name": "Acompanhamento", "short_name": "Acompanhamento", "lang": "pt-BR", "start_url": "/", "display": "standalone",
+  "background_color": "#FFFFFF", "theme_color": "#FFFFFF",
+  "icons": [{ "src": "/icone-512.png", "sizes": "512x512", "type": "image/png" }] }
